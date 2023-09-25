@@ -19,7 +19,7 @@ subsets: "latin-ext"
 subsets: "menu"
 source {
   repository_url: "https://github.com/notofonts/glagolitic.git"
-  archive_url: "https://github.com/notofonts/glagolitic/releases/download/NotoSansGlagolitic-v2.002/NotoSansGlagolitic-v2.002.zip"
+  archive_url: "https://github.com/notofonts/glagolitic/releases/download/NotoSansGlagolitic-v2.003/NotoSansGlagolitic-v2.003.zip"
 }
 is_noto: true
 languages: "cu_Glag"  # Church Slavic, Glagolitic
