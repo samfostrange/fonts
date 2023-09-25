@@ -23,7 +23,7 @@ axes {
 }
 source {
   repository_url: "https://github.com/notofonts/gujarati.git"
-  archive_url: "https://github.com/notofonts/gujarati/releases/download/NotoSerifGujarati-v2.104/NotoSerifGujarati-v2.104.zip"
+  archive_url: "https://github.com/notofonts/gujarati/releases/download/NotoSerifGujarati-v2.105/NotoSerifGujarati-v2.105.zip"
 }
 is_noto: true
 languages: "gu_Gujr"  # Gujarati
